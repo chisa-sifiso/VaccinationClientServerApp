@@ -1,6 +1,5 @@
 # VaccinationClientServerApp
 
-<img src="https://via.placeholder.com/150x150.png?text=Logo" alt="Vaccination App Logo" width="150">
 
 <p align="center">
     <b>Vaccination Client-Server Application</b> <br>
@@ -34,4 +33,4 @@ The **VaccinationClientServerApp** is a basic Java-based socket communication pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/VaccinationClientServerApp.git
+git clone https://github.com/<chisa-sifiso>/VaccinationClientServerApp.git
