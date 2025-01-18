@@ -34,3 +34,4 @@ The **VaccinationClientServerApp** is a basic Java-based socket communication pr
 1. Clone the repository:
    ```bash
 git clone https://github.com/<chisa-sifiso>/VaccinationClientServerApp.git
+<h3>developed by Sfiso vinjwa</h3>
